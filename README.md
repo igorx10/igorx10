@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá!
+
+- 🌱 Estudando python!
+- 📫 Entre em contato comigo pelo e-mail: igorferreirabarbosa@gmail.com
 
 <!--
 **igorx10/igorx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
